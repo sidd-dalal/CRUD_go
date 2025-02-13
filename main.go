@@ -7,7 +7,6 @@ import (
 	"net/http"
 	"strconv"
 )
-
 // Pet struct
 type Pet struct {
 	ID   int    `json:"id"`

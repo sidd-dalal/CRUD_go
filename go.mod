@@ -1,3 +1,3 @@
-module w6_go_2
+module CRUD_go
 
 go 1.23.1
